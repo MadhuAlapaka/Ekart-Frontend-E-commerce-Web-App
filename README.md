@@ -39,6 +39,8 @@ REST APIs for product data
 
 Local storage for cart persistence
 
+<img width="313" height="160" alt="image" src="https://github.com/user-attachments/assets/bd102a24-2bf5-493d-bad1-6cdfdeb9066d" />
+
 🧑‍💻 Project Structure
 ekart-frontend/
 │
